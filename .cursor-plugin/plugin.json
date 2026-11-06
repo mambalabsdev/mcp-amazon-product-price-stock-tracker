@@ -1,0 +1,33 @@
+{
+  "name": "mcp-amazon-product-price-stock-tracker",
+  "displayName": "Amazon Product, Price, and Stock Tracker",
+  "version": "1.0.0",
+  "description": "MCP server for Amazon Product, Price, and Stock Tracker. Amazon price, stock, seller, and rating by ASIN or URL on 9 marketplaces, with change rows between runs. Runs on Apify. Clay-ready output.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-amazon-product-price-stock-tracker",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "amazon",
+    "amazon-scraper",
+    "price-tracker",
+    "asin",
+    "ecommerce",
+    "stock-monitor"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "amazon",
+    "amazon-scraper",
+    "price-tracker",
+    "asin",
+    "ecommerce",
+    "stock-monitor"
+  ],
+  "mcpServers": ".mcp.json"
+}

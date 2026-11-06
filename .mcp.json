@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-amazon-product-price-stock-tracker": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-amazon-product-price-stock-tracker"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
